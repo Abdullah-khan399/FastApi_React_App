@@ -4,7 +4,7 @@
 
 cd fronend\
 npm install\
-npm run dev\
+npm run dev
 
 # Backend
 
