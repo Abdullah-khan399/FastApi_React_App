@@ -1,12 +1,12 @@
 # FastApi_React_App
 
-#FronEnd
+# FronEnd
 
-cd fronend
+* cd fronend
 npm install
 npm run dev
 
-#Backend
+# Backend
 
 cd backend
 pip3 install -r requirements.txt
